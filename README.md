@@ -6,3 +6,5 @@
 1. numbered item2
 
 [Google](https://www.google.com/)
+
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
