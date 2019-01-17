@@ -7,4 +7,4 @@
 
 [Google](https://www.google.com/)
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![Hosted image](https://images.pexels.com/photos/356378/pexels-photo-356378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 "Lynx Kitten")
